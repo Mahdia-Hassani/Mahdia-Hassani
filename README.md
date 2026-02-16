@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Mahdia</h1>
-<h3 align="center">🔴Junoir Frontend Developer | Learning Python, OpenCV, and Django
+<h3 align="center">🔴Junoir Frontend Developer | Learning programming languages
 </h3>
 
 <div align="center">
