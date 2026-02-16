@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mahdia</h1>
 <h3 align="center">A Passionate Frontend Developer From Afghanistan</h3>
 
+<img align="right" alt="Mahdia" width="400" scr="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdia-hassani&label=Profile%20views&color=0e75b6&style=flat" alt="mahdia-hassani" /> </p>
 
 - 🔭 I’m currently working on **Hospital management system with Tkinter**
