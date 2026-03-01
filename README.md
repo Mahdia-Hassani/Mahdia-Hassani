@@ -9,7 +9,7 @@
 ## 👩‍💻 About Me
 <p align="left"><img src="https://komarev.com/ghpvc/?username=mahdia-hassani&label=Profile%20views&color=0e75b6&style=flat" alt="mahdia-hassani"/> </p>
 
-- 💻 Software Engineering Student  
+- 💻 Front-end Developer 
 - 🌱 Currently learning Python and Front-end  
 - 🔥 Interested in clean code, open-source, and solving real problems  
 - 🌍 Based in Afghanistan, working and learning remotely  
