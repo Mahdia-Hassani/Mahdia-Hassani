@@ -41,22 +41,7 @@
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Mahdia-Hassani)  
 [![Email](https://img.shields.io/badge/Email-ms.hassani.mail@gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ms.hassani.mail@gmail.com)
 
----
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257456-7ad6d3c2-8a10-4c4c-9e14-e7c9b3f8a2c2.gif" width="100" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257457-8d3c4e4e-4c4e-4c4e-4c4e-4c4e4c4e4c4e.gif" width="100" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257456-7ad6d3c2-8a10-4c4c-9e14-e7c9b3f8a2c2.gif" width="100" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahdia-hassani&bg_color=0d1117&color=00d4aa&line=00d4aa&point=ffffff&area=true&hide_border=true"/>
-</div>
-
-
----
 ## 🌍 Languages  
 - **English:** Very good command  
 - **Persian:** Native proficiency
@@ -66,7 +51,7 @@
 </div>
 
 <div align="center">
-  <h3>⭐ Don't forget to star my repositories if you find them useful! ⭐</h3>
+  <h3>⭐ Feel free to explore my repositories and contribute if you like! ⭐ </h3>
 </div>
 
 ---
