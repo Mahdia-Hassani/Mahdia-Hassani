@@ -1,9 +1,5 @@
 <img src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433" alt="git" height="350" width="1200px" >
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mahdia+Hassani;Junior+Frontend+Developer;Junior+Python+Developer;AI%2FML+Enthusiast;Hackathon+Lover" alt="Typing SVG" />
-</div>
-
 <h1 align="center">Hi 👋, I'm Mahdia</h1>
 
 <div align="center">
