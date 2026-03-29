@@ -2,6 +2,12 @@
 
 <h1 align="center">Hi 👋, I'm Mahdia</h1>
 
+<p align="center">
+  <a href="https://mahdia-hassani.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
+
 <div align="center">
   <img src="[https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz2de5fndfmz7wgvd708h.gif)" width="900" />
 </div>
