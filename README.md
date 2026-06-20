@@ -21,9 +21,7 @@
 - 🌍 Based in Afghanistan, working and learning remotely  
 - 💙 Growing in tech with consistency and patience
 
-## ⚡ Tech Stack  
-![HTML5](https://skillicons.dev/icons?i=html)  ![CSS3](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=javascript)
-![GitHub](https://skillicons.dev/icons?i=github)  
+## 
 
 ![GitHub Snake](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg)
 
