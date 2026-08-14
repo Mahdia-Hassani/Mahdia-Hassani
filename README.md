@@ -16,7 +16,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=mahdia-hassani&label=Profile%20views&color=0e75b6&style=flat" alt="mahdia-hassani"/> </p>
 
 - 💻 Front-end Developer 
-- 🌱 Currently learning Python and Front-end  
+- 🌱 Currently learning Front-end  
 - 🔥 Interested in clean code, open-source, and solving real problems  
 - 🌍 Based in Afghanistan, working and learning remotely  
 - 💙 Growing in tech with consistency and patience
