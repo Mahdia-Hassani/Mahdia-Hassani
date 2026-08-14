@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mahdia</h1>
 
 <p align="center">
-  <a href="https://https://mahdia-hassani.netlify.app//">
+  <a href="https:/mahdia-hassani.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
